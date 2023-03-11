@@ -50,4 +50,4 @@ If the issue persists, please let us know. Our community forum is always happy t
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `<app>.fly.dev`
+Once you've deployed your Rails app, put the link here: `emailer-bot.fly.dev`
